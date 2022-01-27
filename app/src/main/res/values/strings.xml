@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dagger-hillt-setup</string>
+    <string name="hilt_test">string variable from string resourse</string>
+</resources>
